@@ -1,0 +1,8 @@
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\hotkeyapp.exe
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\hotkeyapp.dll
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\hotkeyapp.deps.json
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\hotkeyapp.runtimeconfig.json
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\hotkeyapp.pdb
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\AutoItX3.Assembly.dll
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\AutoItX3.PowerShell.dll
+C:\Users\hamza\source\repos\hotkeyapp\hotkeyapp\bin\Release\net6.0-windows\publish\AutoItX3.Assembly.xml
